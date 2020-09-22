@@ -1,8 +1,4 @@
-<%-- 
-    Document   : contact
-    Created on : Sep 11, 2020, 3:32:50 PM
-    Author     : Ukdmp Kasun
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
