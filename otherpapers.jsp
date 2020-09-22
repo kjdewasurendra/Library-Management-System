@@ -1,8 +1,3 @@
-<%-- 
-    Document   : otherpapers
-    Created on : Sep 10, 2020, 12:35:08 PM
-    Author     : Ukdmp Kasun
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.util.List"%>
