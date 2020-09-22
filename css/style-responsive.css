@@ -148,7 +148,7 @@
         margin: 0px !important;
     }
 
-    /* sidebar collabler */
+    /* sidebar collabler  */
     #sidebar .btn-navbar.collapsed .arrow {
         display: none;
     }
@@ -166,10 +166,11 @@
 
 
     /*---------*/
+    
 
     .modal-footer .btn {
         margin-bottom: 0px !important;
-    }
+    }...............................
 
     .btn {
         margin-bottom: 5px;
