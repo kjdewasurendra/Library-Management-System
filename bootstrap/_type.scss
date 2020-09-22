@@ -55,7 +55,7 @@ h6, .h6 { font-size: $h6-font-size; }
 hr {
   margin-top: $hr-margin-y;
   margin-bottom: $hr-margin-y;
-  border: 0;
+  border: 0;;
   border-top: $hr-border-width solid $hr-border-color;
 }
 
@@ -115,7 +115,7 @@ mark,
 }
 
 .blockquote-footer {
-  display: block;
+  display: block;;
   font-size: 80%; // back to default font-size
   color: $blockquote-small-color;
 
