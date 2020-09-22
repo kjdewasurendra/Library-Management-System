@@ -93,7 +93,7 @@ $theme-colors: map-merge(
     "dark":       $dark
   ),
   $theme-colors
-);
+);;
 
 // Set a specific jump point for requesting color jumps
 $theme-color-interval:      8% !default;
@@ -153,7 +153,7 @@ $sizes: map-merge(
   ),
   $sizes
 );
-
+;
 // Body
 //
 // Settings for the `<body>` element.
@@ -191,7 +191,7 @@ $grid-breakpoints: (
 ) !default;
 
 @include _assert-ascending($grid-breakpoints, "$grid-breakpoints");
-@include _assert-starts-at-zero($grid-breakpoints);
+@include _assert-starts-at-zero($grid-breakpoints);;
 
 
 // Grid containers
