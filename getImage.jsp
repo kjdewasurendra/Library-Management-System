@@ -16,7 +16,7 @@
         ps.setString(1, id);
         ResultSet rs = ps.executeQuery();
         if (rs.next()) {
-            Blob blob = rs.getBlob("cover");
+            Blob blob = rs.getBlob("cover");;
             byte byteArray[] = blob.getBytes(1, (int) blob.length());
             response.setContentType("image/gif");
             OutputStream os = response.getOutputStream();
