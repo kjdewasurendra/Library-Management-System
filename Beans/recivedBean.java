@@ -28,8 +28,7 @@ public class recivedBean implements Serializable {
     public void setId(String Id) {
         this.Id = Id;
     }
-bnvaKWJHegukhawjiuh
-    ABWJHBAHJBJHbef
+
     
  
     
