@@ -31,8 +31,6 @@ public class recivedBean implements Serializable {
 bnvaKWJHegukhawjiuh
     ABWJHBAHJBJHbef
     ABEFJHBSDF
-    UIIAEFJHBF
-    jhbSDjhb
  
     
     public String getbId() {
