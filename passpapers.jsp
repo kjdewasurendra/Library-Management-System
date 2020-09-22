@@ -1,4 +1,3 @@
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.util.List"%>
 <%@page import="java.sql.DriverManager"%>
@@ -76,7 +75,7 @@ ResultSet resultSet = null;
 	<!-- Start Header Area -->
 		<header class="default-header">
 		<nav class="navbar navbar-expand-lg navbar-light">
-			<div class="container">
+			<div class="container">>
 				<a class="navbar-brand" href="index.jsp">
 					<h2 style="color: white;">LIBRARY</h2>
 				</a>
@@ -105,7 +104,7 @@ ResultSet resultSet = null;
 				</div>
 			</div>
 		</nav>
-	</header>
+	</header>>
 	<!-- End Header Area -->
 
 	<!-- Start Banner Area -->
@@ -158,7 +157,7 @@ while(resultSet.next()){
 }
 
 } catch (Exception e) {
-e.printStackTrace();
+e.printStackTrace();;
 }
 %>
  
@@ -171,7 +170,7 @@ e.printStackTrace();
 
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
-	 crossorigin="anonymous"></script>
+	 crossorigin="anonymous"></script>>
 	<script src="js/vendor/bootstrap.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
 	<script src="js/parallax.min.js"></script>
@@ -180,7 +179,7 @@ e.printStackTrace();
 	<script src="js/jquery.nice-select.min.js"></script>
 	<script src="js/jquery.magnific-popup.min.js"></script>
 	<script src="js/jquery.sticky.js"></script>
-	<script src="js/main.js"></script>
+	<script src="js/main.js"></script>>
 </body>
 
 </html>
