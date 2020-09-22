@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Sep 10, 2020, 12:18:57 PM
-    Author     : Ukdmp Kasun
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
