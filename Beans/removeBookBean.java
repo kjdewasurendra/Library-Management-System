@@ -11,10 +11,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-/**
- *
- * @author Ukdmp Kasun
- */
+
 public class removeBookBean implements Serializable {
 
     private String bId;
